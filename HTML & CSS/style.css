@@ -1,0 +1,8 @@
+body{
+    background-color: aliceblue;
+    color: blue;
+    h1{
+        text-align: center;
+        color: rgb(25, 128, 20);
+    }
+}
